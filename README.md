@@ -22,4 +22,4 @@ The state of Kerala does not experience floods as worse as the Indo-Gangetic Pla
 - Django(to deploy the model)
 
 ## Overall accuracy of the models
-![Accuracy](https://github.com/Himangshu1086/Flood-Prediction-Unit-Hydrography-and-ML/blob/master/accuracy.png)
+![Accuracy]('https://github.com/Himangshu1086/Flood-Prediction-Unit-Hydrography-and-ML/blob/master/accuracy.png')
