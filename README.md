@@ -1,5 +1,7 @@
 ## Flood Prediction using ML models
 
+## Notebook : https://github.com/Himangshu1086/Flood-Prediction-Unit-Hydrography-and-ML/blob/master/Flood_Prediction.ipynb
+
 - This jupyter notebook uses 3 Machine Learning Algorithms namely KNN Classification, Logistic Regression[LR], Support Vector[SVM] to get the best possible model to predict the floods using Kerala Rainfall Data.
 
 ## FLOOD SITUATION IN KERALA 
